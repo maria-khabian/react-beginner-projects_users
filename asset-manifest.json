@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/react-beginner-projects_users/static/css/main.cd5d95a0.css",
-    "main.js": "/react-beginner-projects_users/static/js/main.00764b0b.js",
+    "main.js": "/react-beginner-projects_users/static/js/main.7c21abe6.js",
+    "static/media/success.svg": "/react-beginner-projects_users/static/media/success.a15b9a8a62a5d415b97db4047d9e71e6.svg",
     "index.html": "/react-beginner-projects_users/index.html",
+    "static/media/plus.svg": "/react-beginner-projects_users/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
+    "static/media/minus.svg": "/react-beginner-projects_users/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
     "main.cd5d95a0.css.map": "/react-beginner-projects_users/static/css/main.cd5d95a0.css.map",
-    "main.00764b0b.js.map": "/react-beginner-projects_users/static/js/main.00764b0b.js.map"
+    "main.7c21abe6.js.map": "/react-beginner-projects_users/static/js/main.7c21abe6.js.map"
   },
   "entrypoints": [
     "static/css/main.cd5d95a0.css",
-    "static/js/main.00764b0b.js"
+    "static/js/main.7c21abe6.js"
   ]
 }
