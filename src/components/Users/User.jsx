@@ -1,4 +1,6 @@
 import React from 'react';
+import plus from './../../assets/plus.svg';
+import minus from './../../assets/minus.svg';
 
 export const User = ({ id, email, first_name, last_name, avatar, onClickInvited, isInvited }) => (
   <li key={id}>
@@ -19,8 +21,8 @@ export const User = ({ id, email, first_name, last_name, avatar, onClickInvited,
     <img
       onClick={() => onClickInvited(id)}
       className="action"
-      src={`/assets/${isInvited ? 'minus' : 'plus'}.svg`}
-      alt="Action"
+      src={isInvited ? minus : plus}
+      alt="Act"
     />
   </li>
 );
